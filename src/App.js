@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. New repo..
+          Edit <code>src/App.js</code> and save to reload. New repo.. Deploy to VPS!
         </p>
         <a
           className="App-link"
